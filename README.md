@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Pratik Dhulubulu</h1>
+<h1 align="center">Hi, I'm Pratik Dhulubulu</h1>
 <h3 align="center">A passionate Software Development Engineer from India</h3>
 
 - 🌱 I’m currently learning **Full Stack Development**
