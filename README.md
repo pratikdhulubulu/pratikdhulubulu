@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Pratik Dhulubulu</h1>
 <h3 align="center">A passionate Embedded Software Engineer from India</h3>
 
-- 💬 Ask me about **Embedded Software Development and Test**
+- 💬 Ask me about **Embedded Software Development and Testing**
 
 - 📫 How to reach me **pratikdhulubulupsd3@gmail.com**
 
