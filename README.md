@@ -2,7 +2,7 @@
 <h3 align="center">Embedded Software Engineer</h3>
 
 <p align="center">
-  <a href="./Pratik_Dhulubulu_Resume.pdf" download>
+  <a href="./Pratik_Dhulubulu_Embedded_Software_Engineer.pdf" download>
     <img src="https://img.shields.io/badge/Download_Resume-2E7D32?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
   </a>
 </p>
