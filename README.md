@@ -4,7 +4,6 @@
 💬 About Me
 
 I am an Embedded Software Engineer experienced in Software Development across Electro-Pneumatic Rail Brake System and Industrial Automation domains, focusing on Embedded Systems Software, Embedded C/C++, Communication Protocols, RTOS, Firmware Development.
-
 Currently working at Knorr-Bremse TCI, Pune on the EP2002 Classic Rail Braking System and CCMT Datalogger System.
 
 🔗 Connect with Me
